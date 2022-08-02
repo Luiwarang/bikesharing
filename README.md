@@ -55,3 +55,5 @@
 ### It is recommended though, to perform two additional visualizations to appreciate more information in order to better support the decision:
 ### a) Trip count by Birth Day: This visualization will help us compare the use of the service based on the user age.
 ### b) User type by Birth Day: This visualization will help us know the age range of each type of user, this will allow us define a better marketing strategy for suscribers for instance.
+
+[link to dashboard](https://public.tableau.com/app/profile/luis.felipe.mendieta)
