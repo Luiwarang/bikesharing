@@ -46,7 +46,7 @@
 
 ### **10. User Trips by Gender by Weekday**
 #### From the following image we can conclude that most of the users that use the bike ocasionally (customers) tend to do it during the weekend, while subscribers use the service during the whole week:
-![Trips Gender Weekday](Resources/Trips_Gender_Weekday.png)
+![Trips Gender Weekday](Resources/Trips_Gender_Weekend.png)
 
 ## ***SUMMARY***
 
